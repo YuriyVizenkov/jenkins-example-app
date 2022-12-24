@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbc174e7-dd2c-4dca-a410-b874c21bdab0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +51,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671907073734</updated>
-      <workItem from="1671907075156" duration="1100000" />
+      <workItem from="1671907075156" duration="1160000" />
+      <workItem from="1671910956021" duration="378000" />
     </task>
+    <task id="LOCAL-00001" summary="change port for sonar">
+      <created>1671908243112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671908243112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change port for sonar" />
+    <option name="LAST_COMMIT_MESSAGE" value="change port for sonar" />
   </component>
 </project>
